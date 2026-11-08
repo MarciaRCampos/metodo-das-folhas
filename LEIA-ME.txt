@@ -1,0 +1,13 @@
+MÉTODO DAS FOLHAS — pacote do site
+
+O que tem aqui
+- index.html: o jogo completo (300 folhas, laboratórios, ábaco e explicações).
+- videos/: 53 vídeos explicativos narrados (um por assunto) e as capas deles.
+
+Como publicar
+Envie o index.html e a pasta videos/ juntos, na mesma pasta do seu site.
+O jogo procura os vídeos em "videos/". Se a pasta não estiver lá,
+o jogo funciona normalmente, só sem os vídeos.
+
+Os vídeos aparecem na tela "Antes de começar" de cada folha,
+no botão "Ver explicação" e em "Explicações do estágio", no mapa.
